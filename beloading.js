@@ -4,7 +4,7 @@
 
 Script : beloading 0.1 beta
 Author : Elias Ngumbi
-Date : 2017/12/16
+Date : 2019/07/11
 Source : https://github.com/eliasngumbi998/
 License: MPL 2.0
 Dependancies: Bootstrap ver. * > 3, jQuery UI
